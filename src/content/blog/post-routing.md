@@ -1,7 +1,7 @@
 ---
 title: "Enrutamiento entre routers Microtik "
 description: "Trabajo de subida de nota módulo MSI"
-pubDate: "Jul 08 2022"
+pubDate: "May 29 2024"
 heroImage: "/blog-routing-1.png"
 ---
 
